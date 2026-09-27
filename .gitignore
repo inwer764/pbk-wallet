@@ -1,0 +1,8 @@
+pbk.db
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+*.spec
+*.exe
